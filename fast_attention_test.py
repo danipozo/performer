@@ -18,7 +18,7 @@
 
 import math
 import tensorflow as tf
-from performer.fast_attention.tensorflow import fast_attention
+import fast_attention
 
 
 class TransformerLayersTest(tf.test.TestCase):
