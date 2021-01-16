@@ -20,7 +20,7 @@ Prefix Sum Tensorflow implementation by Valerii Likhosherstov.
 import math
 import numpy as np
 import tensorflow as tf
-import util
+import performer.util
 
 BIG_CONSTANT = 1e8
 
